@@ -4,10 +4,12 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Adrian Agustin Olavarria
+- Vivo en Parque quirno, Hurlingham.
+
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Estudio en la UNAHUR desde febrero de 2023.
+- Sigo disfrutando el proceso aunque soy muy autoexigente conmigo mismo.
+- Busco siempre sacar lo mejor de las cursadas aunque estas no siempre terminen de la mejor manera
